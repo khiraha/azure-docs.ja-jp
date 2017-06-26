@@ -1,5 +1,5 @@
 ---
-title: "Azure での Windows VM に対する影響力の強いメンテナンス | Microsoft Docs"
+title: "Azure での Windows VM に影響のあるメンテナンス | Microsoft Docs"
 description: "Windows 仮想マシンに対して、影響力の強いメンテナンスを実行します。"
 services: virtual-machines-windows
 documentationcenter: 
